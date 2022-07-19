@@ -1,0 +1,12 @@
+MANIFEST.in
+README.md
+setup.py
+greet.egg-info/PKG-INFO
+greet.egg-info/SOURCES.txt
+greet.egg-info/dependency_links.txt
+greet.egg-info/entry_points.txt
+greet.egg-info/top_level.txt
+main_logic/__init__.py
+main_logic/__main__.py
+main_logic/greet.py
+main_logic/other_greet.py

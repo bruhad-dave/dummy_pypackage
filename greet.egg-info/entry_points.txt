@@ -1,0 +1,3 @@
+[console_scripts]
+Hey = main_logic.other_greet:other_greeting
+greet = main_logic.greet:main

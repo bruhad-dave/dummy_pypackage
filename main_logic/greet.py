@@ -1,7 +1,7 @@
 __version__ = "0.0.1"
 
 import sys
-from .other_logic import other_greeting
+from .other_greet import other_greeting
 
 def main():
 	if sys.argv[1]:
