@@ -6,7 +6,7 @@ from .other_greet import other_greeting
 def main():
 	if sys.argv[1]:
 		print("hello, " + sys.argv[1])
-	else:
+	elif IndexError:
 		print("hello, world!")
 	other_greeting()
 	
